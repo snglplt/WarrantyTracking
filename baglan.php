@@ -4,8 +4,8 @@ ob_start();
 session_start();
 
 
-$username="admin_pratik";
-$password="295cv&Hn06**";
+$username="******";
+$password="*****";
 $sunucu="localhost";
 $database="admin_pratik";
 date_default_timezone_set('Europe/Istanbul');
